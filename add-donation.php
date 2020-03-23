@@ -1,15 +1,6 @@
 <?php
 require_once("pages/includes/functions.php");
-//session_start();
-//print_r($_SESSION);
-//if($_SESSION['nid']==NULL)
-//{
-//    header("Location: index.php");
-//}
 
-//$donations=getngodonations();
-// print_r($donations);
-?>
 
 <html>
     <head>
